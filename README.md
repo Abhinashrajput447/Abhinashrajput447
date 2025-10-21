@@ -26,31 +26,9 @@ Hi! I'm Abhinash Kumar — a 1st Year B.Tech student at KL University, Andhra Pr
         <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" height="28"/>
       </p>
 
-      <h4>Frontend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs" height="28"/>
-      </p>
+   
 
-      <h4>Backend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" height="28"/>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Databases</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="28"/>
-      </p>
-
-      <h4>Cloud & DevOps</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" height="28"/>
-      </p>
-
-      <h4>Tools & IDEs</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="28"/>
-      </p>
+     
     </td>
   </tr>
 </table>
