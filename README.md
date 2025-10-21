@@ -25,11 +25,6 @@ Hi! I'm Abhinash Kumar — a 1st Year B.Tech student at KL University, Andhra Pr
       <p>
         <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" height="28"/>
       </p>
-
-   
-
-     
-    </td>
   </tr>
 </table>
 
