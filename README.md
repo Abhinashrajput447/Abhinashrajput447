@@ -75,7 +75,7 @@ Hi! I'm Abhinash Kumar — a 1st Year B.Tech student at KL University, Andhra Pr
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinashrajput447&theme=juicyfresh" alt="Trophies" />
 </p>
 
 
