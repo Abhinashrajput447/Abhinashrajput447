@@ -75,12 +75,9 @@ Hi! I'm Abhinash Kumar — a 1st Year B.Tech student at KL University, Andhra Pr
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinashrajput447&theme=gruvbox" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" alt="Trophies" />
 </p>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abhinashrajput447&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</div>
 
 ---
 
