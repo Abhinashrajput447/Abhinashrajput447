@@ -23,7 +23,7 @@ Hi! I'm Abhinash Kumar — a 1st Year B.Tech student at KL University, Andhra Pr
     <td valign="top" width="50%">
       <h4>Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,js,ts"height="28"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,J,js,ts"height="28"/>
       </p>
   </tr>
 </table>
