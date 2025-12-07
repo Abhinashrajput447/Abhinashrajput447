@@ -12,7 +12,7 @@ Hi! I'm Abhinash Kumar — a 1st Year B.Tech student at KL University, Andhra Pr
 ---
 
 ## 🔭 Quick Links
-[Resume - PDF](https://example.com/your-resume.pdf) • [Portfolio](https://your-portfolio.example.com) • [LinkedIn](https://linkedin.com/in/your-linkedin) • [Email](mailto:abhinash.kumar@example.com)
+[Resume - PDF](https://example.com/your-resume.pdf) • [Portfolio](https://your-portfolio.example.com) • [LinkedIn](https://linkedin.com/in/your-linkedin) • [Email](:abhinashkumar5291@gmail.com)
 
 ---
 
